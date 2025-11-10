@@ -1,5 +1,5 @@
-hello world!
-python is easy language 
+
+hello world! 
 
 print("hello world!")
 
